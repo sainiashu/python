@@ -1,2 +1,2 @@
 # python
-All the python related stuff is available
+All the python related stuff are available here
